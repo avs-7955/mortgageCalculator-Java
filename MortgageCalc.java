@@ -58,7 +58,6 @@ public class MortgageCalc {
         }
     }
 
-
     // to calculate mortgage
     public static double calculateMortgage(
             int principal,
