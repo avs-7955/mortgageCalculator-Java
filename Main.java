@@ -1,7 +1,7 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class MortgageCalc {
+public class Main {
     // defining const variables
     final static byte MONTHS_IN_YR = 12;
     final static byte PERCENT = 100;
